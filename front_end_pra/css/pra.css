@@ -1,0 +1,55 @@
+
+
+.profile{
+	margin-top: 20%;
+	margin-bottom: 20%;
+}
+
+.content{
+	position: relative;
+	background-attachment: fixed;
+	line-height: 30px;
+	margin: 0 auto;
+	font-size:4em;
+	color:#000;
+	text-align: center;
+	margin-bottom: 100px;
+
+}
+
+.mainBtn{
+	margin-top: 300px;
+	position:relative;
+	background: #ccc;
+	border-radius: 30px;
+	width:200px;
+	height:70px;
+	margin: 0 auto;
+	
+
+}
+
+.mainBtn p{
+	margin-top: 30px;
+	color:#000;
+	line-height: 70px;
+	margin-top:30%;
+	font-size: 1.3em;
+	font-weight: bold;
+	text-align: center;
+	
+}
+
+.mainBtn a{
+	text-decoration:none;
+}
+
+@media (max-width:375px){
+	.content{
+		margin-top: 50%;
+		line-height: 1.5em;
+		font-size: 30px;
+		word-break: keep-all;
+	}
+}
+
