@@ -1,0 +1,55 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+.topMenu{
+width:100%;
+background-color:#000;
+padding:10px;
+margin:0px;
+}
+.home{
+
+text-align: center;
+padding-right: 670px;
+margin-bottom:-25px;
+}
+
+.home img{
+
+	width:30px;
+	height:30px;
+
+
+}
+
+
+.yTube{
+
+	margin-top: 80px;
+
+}
+.yTube2{
+
+	margin-top: 80px;
+
+}
+
+p{
+	text-align:center;
+
+}
+
+a{
+	font-weight: normal;
+	text-decoration: none;
+	color:#5e5e5e;
+}
+
+a:hover{
+	color:#ccc;
+	font-weight: bold;
+}
